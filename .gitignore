@@ -2,6 +2,6 @@
 *.*#
 
 pcb/fp-info-cache
+pcb/fp-lib-table
 pcb/*-backups
 pcb/*.kicad_prl
-
